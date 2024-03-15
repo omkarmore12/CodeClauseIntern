@@ -1,0 +1,14 @@
+<dependencies>
+    <!-- OpenCV -->
+    <dependency>
+        <groupId>org.openpnp</groupId>
+        <artifactId>opencv</artifactId>
+        <version>4.5.1-2</version>
+    </dependency>
+    <!-- TensorFlow Java -->
+    <dependency>
+        <groupId>org.tensorflow</groupId>
+        <artifactId>tensorflow</artifactId>
+        <version>2.6.0</version>
+    </dependency>
+</dependencies>
